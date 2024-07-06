@@ -1,0 +1,974 @@
+INFO - 2024-07-06 13:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:50:25 --> Tunjangan ID: 2, Jumlah: 120000
+DEBUG - 2024-07-06 13:50:25 --> Potongan ID: 2, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:52:35 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-06 13:52:35 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:52:47 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-06 13:52:47 --> Potongan ID: 6, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:54:31 --> Tunjangan ID: 4, Jumlah: 120000
+DEBUG - 2024-07-06 13:54:31 --> Potongan ID: 2, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:55:28 --> Tunjangan ID: 11, Jumlah: 0
+DEBUG - 2024-07-06 13:55:28 --> Potongan ID: 7, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-06 13:55:44 --> Tunjangan ID: 2, Jumlah: 120000
+DEBUG - 2024-07-06 13:55:44 --> Potongan ID: 2, Jumlah: Tidak ada jumlah
+INFO - 2024-07-06 13:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 13:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:03:59 --> ErrorException: Undefined array key "jumlah_tunjangan"
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 31.
+ 1 APPPATH\Views\penggajian\laporan.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_tunjangan"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(195): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:05:40 --> ErrorException: Undefined variable $data
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 25.
+ 1 APPPATH\Views\penggajian\laporan.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(195): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:05:46 --> ErrorException: Undefined array key "jumlah_tunjangan"
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 31.
+ 1 APPPATH\Views\penggajian\laporan.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_tunjangan"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(195): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:06:04 --> ErrorException: Undefined array key "jumlah_tunjangan"
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 31.
+ 1 APPPATH\Views\penggajian\laporan.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_tunjangan"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(195): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:04 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 27.
+ 1 APPPATH\Views\penggajian\laporan.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:22 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 28.
+ 1 APPPATH\Views\penggajian\laporan.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 28)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:30 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 29.
+ 1 APPPATH\Views\penggajian\laporan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:36 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 27.
+ 1 APPPATH\Views\penggajian\laporan.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:44 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 27.
+ 1 APPPATH\Views\penggajian\laporan.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:08:51 --> ErrorException: Trying to access array offset on value of type int
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 25.
+ 1 APPPATH\Views\penggajian\laporan.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(258): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:10:25 --> ErrorException: Undefined variable $no
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 35.
+ 1 APPPATH\Views\penggajian\index.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $no', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(86): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:10:27 --> ErrorException: Undefined variable $no
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 35.
+ 1 APPPATH\Views\penggajian\index.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $no', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(86): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:13:38 --> ErrorException: Undefined array key "jumlah_tunjangan"
+[Method: GET, Route: penggajian/laporan]
+in APPPATH\Views\penggajian\laporan.php on line 34.
+ 1 APPPATH\Views\penggajian\laporan.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_tunjangan"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php', 34)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/laporan', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(195): view('penggajian/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->laporan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:50:55 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:50:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:50:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:50:55 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:51:43 --> BadMethodCallException: Call to undefined method App\Models\PenggajianModel::getTunjangan
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Penggajian.php(254): CodeIgniter\Model->__call('getTunjangan', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:51:59 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:51:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:51:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:51:59 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(28): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:52:44 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:52:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:44 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:52:46 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:52:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:46 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:52:47 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:52:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:47 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:52:50 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:52:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:50 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:50 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:52:52 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jum...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jum...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jum...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jum...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#13 {main}
+CRITICAL - 2024-07-06 14:52:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:52:52 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`jumlah_tunjangan`) AS `total_tunjangan`
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 APPPATH\Models\PenggajianModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Penggajian.php(254): App\Models\PenggajianModel->getTunjangan('31')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-06 14:53:02 --> BadMethodCallException: Call to undefined method App\Models\PenggajianModel::getTunjangan
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Penggajian.php(254): CodeIgniter\Model->__call('getTunjangan', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-06 14:55:38 --> mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause' in D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\app\Controllers\Penggajian.php(254): CodeIgniter\BaseModel->findAll()
+#7 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+#8 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+#9 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 D:\SEMESTER4\WEB FRAMEWORK\UAP-UAS PWF\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WE...')
+#14 {main}
+CRITICAL - 2024-07-06 14:55:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+[Method: GET, Route: penggajian/pdf/31]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Penggajian.php(254): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:55:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Penggajian.php(254): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-07-06 14:55:38 --> [Caused by] mysqli_sql_exception: Unknown column 'id_penggajian' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = \'31\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tunjangan`
+WHERE `id_penggajian` = :id_penggajian:', [...], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Penggajian.php(254): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->pdf('31')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-06 14:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 14:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 15:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-06 16:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

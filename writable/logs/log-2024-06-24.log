@@ -1,0 +1,1201 @@
+INFO - 2024-06-24 16:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 16:58:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/index.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('templates/index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('templates/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 16:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 16:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:05:07 --> ErrorException: Cannot declare class App\Controllers\User, because the name is already in use
+[Method: GET, Route: Employee]
+in APPPATH\Controllers\Employee.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-06-24 17:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 17:36:55 --> mysqli_sql_exception: Table 'halo.pegawai' doesn't exist in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\SQL\ci4\penggajian\app\Models\Pegawai_model.php(15): CodeIgniter\BaseModel->findAll()
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(22): App\Models\Pegawai_model->getEmployeeList()
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 17:36:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+[Method: GET, Route: Pegawai]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Pegawai_model.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Pegawai.php(22): App\Models\Pegawai_model->getEmployeeList()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 17:36:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pegawai`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pegawai`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\Pegawai_model.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Pegawai.php(22): App\Models\Pegawai_model->getEmployeeList()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 17:36:55 --> [Caused by] mysqli_sql_exception: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *
+FROM `pegawai`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pegawai`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pegawai`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\Pegawai_model.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Pegawai.php(22): App\Models\Pegawai_model->getEmployeeList()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 17:42:00 --> mysqli_sql_exception: Table 'pegawai' already exists in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('CREATE TABLE `p...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `p...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `p...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `p...')
+#4 D:\SQL\ci4\penggajian\app\Database\Migrations\2024-06-24-171435_Pegawai.php(29): CodeIgniter\Database\Forge->createTable('pegawai')
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreatePegawaiTable->up()
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 D:\SQL\ci4\penggajian\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+INFO - 2024-06-24 17:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:44:22 --> ErrorException: Undefined variable $users
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 88.
+ 1 APPPATH\Views\pegawai\index.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 88)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(23): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:45:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "users/index.php"
+[Method: GET, Route: Pegawai]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('users/index', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(26): view('users/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:46:25 --> ErrorException: Attempt to read property "username" on array
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\user\index.php on line 31.
+ 1 APPPATH\Views\user\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "username" on array', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\user\\index.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\user\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): view('user/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:47:51 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:49:55 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(25): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:49:55 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(25): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:49:56 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(25): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:50:53 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:50:54 --> ErrorException: Undefined array key "id_pegawai"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 APPPATH\Views\pegawai\index.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_pegawai"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:51:04 --> ErrorException: Undefined array key "tempat_lahir"
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 44.
+ 1 APPPATH\Views\pegawai\index.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat_lahir"', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 44)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:56:41 --> ErrorException: Undefined variable $users
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(28): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 17:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 17:56:45 --> ErrorException: Undefined variable $users
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(28): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 17:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 18:16:41 --> mysqli_sql_exception: Table 'halo.pegawai' doesn't exist in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\SQL\ci4\penggajian\app\Models\Pegawai_model.php(29): CodeIgniter\BaseModel->findAll()
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(23): App\Models\Pegawai_model->getEmployeeList()
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 18:16:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+[Method: GET, Route: Pegawai]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Pegawai_model.php(29): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Pegawai.php(23): App\Models\Pegawai_model->getEmployeeList()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 18:16:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pegawai`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pegawai`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\Pegawai_model.php(29): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Pegawai.php(23): App\Models\Pegawai_model->getEmployeeList()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 18:16:41 --> [Caused by] mysqli_sql_exception: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT *
+FROM `pegawai`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pegawai`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pegawai`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pegawai`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\Pegawai_model.php(29): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Pegawai.php(23): App\Models\Pegawai_model->getEmployeeList()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 18:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:45:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 18:48:35 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: Pegawai]
+in APPPATH\Controllers\Pegawai.php on line 26.
+ 1 APPPATH\Controllers\Pegawai.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'D:\\SQL\\ci4\\penggajian\\app\\Controllers\\Pegawai.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 18:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 18:50:20 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 42.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 18:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 18:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:02:33 --> BadMethodCallException: Call to undefined method App\Models\Pegawai_model::getEmployeeListWithUsername
+[Method: GET, Route: Pegawai]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Pegawai.php(23): CodeIgniter\Model->__call('getEmployeeListWithUsername', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:03:56 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:06:21 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:06:22 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:06:40 --> ErrorException: Undefined variable $pegawai
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pegawai', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:06:55 --> ErrorException: Undefined variable $pegawai
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pegawai', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:06:56 --> ErrorException: Undefined variable $pegawai
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pegawai', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:07:17 --> ErrorException: Undefined variable $pegawai
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pegawai', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:08:45 --> ErrorException: Undefined variable $employee
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employee', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:08:46 --> ErrorException: Undefined variable $employee
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 40.
+ 1 APPPATH\Views\pegawai\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employee', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(39): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 19:48:28 --> mysqli_sql_exception: Table 'halo.pegawai' doesn't exist in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('SELECT `pegawai...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\SQL\ci4\penggajian\app\Models\PegawaiModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 D:\SQL\ci4\penggajian\app\Controllers\PegawaiController.php(12): App\Models\PegawaiModel->getPegawaiWithUsername()
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\PegawaiController->index()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PegawaiController))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 19:48:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+[Method: GET, Route: PegawaiController]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\PegawaiModel.php(17): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\PegawaiController.php(12): App\Models\PegawaiModel->getPegawaiWithUsername()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PegawaiController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PegawaiController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 19:48:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\PegawaiModel.php(17): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\PegawaiController.php(12): App\Models\PegawaiModel->getPegawaiWithUsername()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PegawaiController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PegawaiController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 19:48:28 --> [Caused by] mysqli_sql_exception: Table 'halo.pegawai' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT `pegawai`.*, `users`.`username`
+FROM `pegawai`
+JOIN `users` ON `users`.`id` = `pegawai`.`user_id`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\PegawaiModel.php(17): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\PegawaiController.php(12): App\Models\PegawaiModel->getPegawaiWithUsername()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PegawaiController->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PegawaiController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 19:57:54 --> BadMethodCallException: Call to undefined method App\Models\PegawaiModel::getPegawaiWithUsername
+[Method: GET, Route: PegawaiController]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\PegawaiController.php(10): CodeIgniter\Model->__call('getPegawaiWithUsername', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PegawaiController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PegawaiController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 19:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 19:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 20:09:05 --> mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list' in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(35): CodeIgniter\Model->insert(Array)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 20:09:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+[Method: POST, Route: pegawai/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:09:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pegawai.php(35): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:09:05 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pegawai.php(35): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 20:11:06 --> mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list' in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(36): CodeIgniter\Model->insert(Array)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 20:11:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+[Method: POST, Route: pegawai/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:11:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:11:06 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'alfan\', \'kotabumi\', \'2004-02-08\', \'Islam\', \'D3\', \'L\', \'1900-01-01\', \'HRD\', \'Aktif\', \'Belum\', \'090909099\', \'0\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 20:11:43 --> mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list' in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(36): CodeIgniter\Model->insert(Array)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 20:11:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+[Method: POST, Route: pegawai/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:11:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:11:43 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 20:12:19 --> mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list' in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(36): CodeIgniter\Model->insert(Array)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 20:12:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+[Method: POST, Route: pegawai/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:12:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:12:19 --> [Caused by] mysqli_sql_exception: Unknown column 'nama_pegawai' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (\'a\', \'a\', \'\', \'Islam\', \'SD\', \'L\', \'\', \'HRD\', \'Aktif\', \'Sudah\', \'\', \'\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`, `user_id`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:, :user_id:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pegawai.php(36): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 20:16:24 --> ErrorException: Undefined property: CodeIgniter\View\View::$user
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 89.
+ 1 APPPATH\Views\pegawai\index.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$user', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 89)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(15): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 20:17:00 --> ErrorException: Undefined property: CodeIgniter\View\View::$user
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 89.
+ 1 APPPATH\Views\pegawai\index.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$user', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 89)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(15): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 20:17:01 --> ErrorException: Undefined property: CodeIgniter\View\View::$user
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 89.
+ 1 APPPATH\Views\pegawai\index.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$user', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 89)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(15): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 20:17:05 --> ErrorException: Undefined property: CodeIgniter\View\View::$user
+[Method: GET, Route: Pegawai]
+in APPPATH\Views\pegawai\index.php on line 89.
+ 1 APPPATH\Views\pegawai\index.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$user', 'D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php', 89)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SQL\\ci4\\penggajian\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(15): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-06-24 20:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 20:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-24 20:39:44 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`halo`.`pegawai`, CONSTRAINT `pegawai_id_users_foreign` FOREIGN KEY (`id_users`) REFERENCES `users` (`id`)) in D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:310
+Stack trace:
+#0 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pe...', 0)
+#1 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\SQL\ci4\penggajian\app\Controllers\Pegawai.php(26): CodeIgniter\Model->insert(Array)
+#8 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+#9 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#10 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 D:\SQL\ci4\penggajian\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 D:\SQL\ci4\penggajian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\peng...')
+#15 {main}
+CRITICAL - 2024-06-24 20:39:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`halo`.`pegawai`, CONSTRAINT `pegawai_id_users_foreign` FOREIGN KEY (`id_users`) REFERENCES `users` (`id`))
+[Method: POST, Route: pegawai/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 686.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pegawai.php(26): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:39:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`halo`.`pegawai`, CONSTRAINT `pegawai_id_users_foreign` FOREIGN KEY (`id_users`) REFERENCES `users` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 315.
+ 1 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (\'a\', \'a\', \'2004-08-11\', \'Islam\', \'D3\', \'L\', \'2009-08-08\', \'HRD\', \'Aktif\', \'Belum\', \'0909090909\', \'0\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (\'a\', \'a\', \'2004-08-11\', \'Islam\', \'D3\', \'L\', \'2009-08-08\', \'HRD\', \'Aktif\', \'Belum\', \'0909090909\', \'0\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pegawai.php(26): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')
+CRITICAL - 2024-06-24 20:39:44 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`halo`.`pegawai`, CONSTRAINT `pegawai_id_users_foreign` FOREIGN KEY (`id_users`) REFERENCES `users` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(310): mysqli->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (\'a\', \'a\', \'2004-08-11\', \'Islam\', \'D3\', \'L\', \'2009-08-08\', \'HRD\', \'Aktif\', \'Belum\', \'0909090909\', \'0\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (\'a\', \'a\', \'2004-08-11\', \'Islam\', \'D3\', \'L\', \'2009-08-08\', \'HRD\', \'Aktif\', \'Belum\', \'0909090909\', \'0\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (\'a\', \'a\', \'2004-08-11\', \'Islam\', \'D3\', \'L\', \'2009-08-08\', \'HRD\', \'Aktif\', \'Belum\', \'0909090909\', \'0\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2333): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pegawai` (`nama_pegawai`, `tempat_lahir`, `tanggal_lahir`, `agama`, `pendidikan`, `jenkel`, `TMT`, `jabatan`, `status_kepegawaian`, `status_pernikahan`, `no_telp`, `jumlah_anak`) VALUES (:nama_pegawai:, :tempat_lahir:, :tanggal_lahir:, :agama:, :pendidikan:, :jenkel:, :TMT:, :jabatan:, :status_kepegawaian:, :status_pernikahan:, :no_telp:, :jumlah_anak:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pegawai.php(26): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pegawai->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SQL\\ci4\\penggajian\\public\\index.php')

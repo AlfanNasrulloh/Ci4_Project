@@ -1,0 +1,157 @@
+INFO - 2024-07-05 01:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 01:56:26 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 01:56:26 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 01:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 01:56:53 --> ErrorException: Undefined array key "jumlah_potongan_items"
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 40.
+ 1 APPPATH\Views\penggajian\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_potongan_items"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(67): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 01:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 01:57:45 --> Tunjangan ID: 2, Jumlah: 120000
+DEBUG - 2024-07-05 01:57:45 --> Potongan ID: 2, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 01:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 01:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 01:59:10 --> ErrorException: Attempt to read property "nama_potongan" on array
+[Method: GET, Route: penggajian]
+in APPPATH\Controllers\Penggajian.php on line 59.
+ 1 APPPATH\Controllers\Penggajian.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_potongan" on array', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Controllers\\Penggajian.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 02:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 02:00:26 --> ErrorException: Attempt to read property "nama_potongan" on array
+[Method: GET, Route: penggajian]
+in APPPATH\Controllers\Penggajian.php on line 59.
+ 1 APPPATH\Controllers\Penggajian.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_potongan" on array', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Controllers\\Penggajian.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 02:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 02:01:01 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 02:01:01 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 02:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 02:02:10 --> ErrorException: Undefined variable $data
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 33.
+ 1 APPPATH\Views\penggajian\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(35): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 02:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 02:03:58 --> ErrorException: Undefined array key "jumlah_tunjangan"
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 39.
+ 1 APPPATH\Views\penggajian\index.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jumlah_tunjangan"', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 39)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(35): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 02:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-05 02:04:14 --> ErrorException: Undefined variable $data
+[Method: GET, Route: penggajian]
+in APPPATH\Views\penggajian\index.php on line 33.
+ 1 APPPATH\Views\penggajian\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php', 33)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\app\\Views\\penggajian\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penggajian/index', [], true)
+ 5 APPPATH\Controllers\Penggajian.php(35): view('penggajian/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penggajian->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penggajian))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\SEMESTER4\\WEB FRAMEWORK\\UAP-UAS PWF\\ci4\\penggajian\\public\\index.php')
+INFO - 2024-07-05 02:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 02:05:16 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 02:05:16 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 02:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 02:05:34 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 02:05:34 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 02:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 02:05:56 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 02:05:56 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 02:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-07-05 02:06:51 --> Tunjangan ID: 1, Jumlah: 1
+DEBUG - 2024-07-05 02:06:51 --> Potongan ID: 1, Jumlah: Tidak ada jumlah
+INFO - 2024-07-05 02:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-05 02:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
